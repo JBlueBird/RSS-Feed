@@ -44,5 +44,80 @@
   <pubDate>Sat, 20 Jul 2025 12:15:00 -0500</pubDate>
   <guid>https://jbluebird.github.io/posts/macosx-simplicity</guid>
 </item>
+    <item>
+  <title>Tiger vs. Sonoma: Which One Really Feels Like a Mac?</title>
+  <link>https://jbluebird.github.io/posts/tiger-vs-sonoma</link>
+  <description><![CDATA[
+    <p>It’s 2005. You’re staring at a translucent menu bar, bouncing dock icons, and a brushed-metal Finder window. Mac OS X 10.4 Tiger is snappy, clean, and focused. Fast forward to 2025: macOS Sonoma (or even Tahoe) is sleek, but is it still... Mac?</p>
+
+    <h3>Design: From Brushed Metal to Flat Worlds</h3>
+    <p>Tiger's Aqua design was rich and playful — pinstripes, colorful buttons, real shadows. Sonoma brings modern minimalism, but many argue it feels sterile. Where Tiger says "fun," Sonoma whispers "enterprise."</p>
+
+    <h3>Performance: The Lightweight Champ</h3>
+    <p>Tiger booted in under 30 seconds on a single-core G4. Sonoma takes minutes on an M1 with FileVault, iCloud sync, and gatekeeper checks. Tiger gets points for being lean.</p>
+
+    <h3>Stability & Control</h3>
+    <p>Sonoma is more secure, but harder to control. System files are sealed, and third-party tools are often blocked. Tiger? You were root by default. Dangerous, but freeing.</p>
+
+    <h3>Features: Do We Need Them All?</h3>
+    <p>Sure, Sonoma supports widgets, Continuity, and Stage Manager. But Tiger had simplicity — no distractions. Just files, apps, and productivity.</p>
+
+    <h3>Verdict</h3>
+    <p>Sonoma is powerful. But Tiger feels like a Mac. Fast, focused, and fun. Maybe it’s time we stop chasing features and remember what made the Mac... magical.</p>
+  ]]></description>
+  <pubDate>Sat, 20 Jul 2025 12:30:00 -0500</pubDate>
+  <guid>https://jbluebird.github.io/posts/tiger-vs-sonoma</guid>
+</item>
+<item>
+  <title>Remember When Icons Were Fun?</title>
+  <link>https://jbluebird.github.io/posts/fun-icons</link>
+  <description><![CDATA[
+    <p>Once upon a time, your Mac’s desktop looked like a playground. The Trash had crumpled paper. iChat had a happy speech bubble. GarageBand? A literal guitar.</p>
+
+    <h3>The Golden Age of Icons</h3>
+    <p>From Mac OS 9 to Mac OS X 10.6, icons were detailed, colorful, and fun. They told stories. You could almost <em>touch</em> them. Real-world metaphors ruled — and it worked.</p>
+
+    <h3>Enter: Flatland</h3>
+    <p>Post-Yosemite, Apple went flat. Icons became minimalist outlines. The Notes app lost its notepad look. Preview’s photo and loupe were replaced with a… blue square?</p>
+
+    <h3>Why It Mattered</h3>
+    <p>Fun icons did more than look good — they invited you in. They made learning the OS feel like a game. Today’s icons are uniform, clean… and kind of boring.</p>
+
+    <h3>Should We Go Back?</h3>
+    <p>Not entirely. But maybe it’s time to bring personality back to the dock. We’re using the most advanced computers in the world — can we have a little fun with them?</p>
+  ]]></description>
+  <pubDate>Sat, 20 Jul 2025 12:40:00 -0500</pubDate>
+  <guid>https://jbluebird.github.io/posts/fun-icons</guid>
+</item>
+<item>
+  <title>macOS Tahoe Releases</title>
+  <link>https://jbluebird.github.io/posts/macos-tahoe</link>
+  <description><![CDATA[
+    <p>macOS 15 “Tahoe” is here, and it’s not just a new coat of paint. Apple made bold changes — some loved, some... not so much. Let’s break it down.</p>
+
+    <h3>🚀 New Features</h3>
+    <ul>
+      <li><strong>Launchpad Removed:</strong> It’s gone. Replaced by the “QuickLauncher” API — or your app, Rocket.</li>
+      <li><strong>Simplified Settings:</strong> System Settings got a new layout that’s slightly less confusing. Slightly.</li>
+      <li><strong>AI Summarize Everywhere:</strong> Spotlight and Safari now summarize emails, websites, and PDFs using on-device AI.</li>
+      <li><strong>Revamped Mission Control:</strong> Spaces and Exposé merged into a fluid new multitasking UI.</li>
+    </ul>
+
+    <h3>🐞 Known Bugs</h3>
+    <ul>
+      <li>Random Finder crashes when dragging files from USB drives.</li>
+      <li>Mail app forgets accounts when using multiple Apple IDs.</li>
+      <li>System Settings dark mode toggle doesn’t always stick.</li>
+    </ul>
+
+    <h3>🧠 The Bigger Picture</h3>
+    <p>macOS Tahoe aims to be lighter and smarter, but not everyone loves the changes. Power users miss Launchpad. Developers are annoyed by stricter notarization rules. And yet, it runs surprisingly fast on Apple Silicon Macs.</p>
+
+    <h3>📢 Our Verdict</h3>
+    <p>macOS Tahoe is a bold evolution — but still evolving. Great ideas, mixed execution. If Apple listens, Tahoe could be one of the best macOS versions in years.</p>
+  ]]></description>
+  <pubDate>Sat, 20 Jul 2025 12:50:00 -0500</pubDate>
+  <guid>https://jbluebird.github.io/posts/macos-tahoe</guid>
+</item>
   </channel>
 </rss>
