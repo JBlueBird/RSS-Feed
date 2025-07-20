@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>My Cool Blog</title>
-    <link>https://example.com</link>
-    <description>A blog about my projects and thoughts.</description>
+    <title>Jtech</title>
+    <link>https://jbluebird.github.io/</link>
+    <description>
+      Back when there were simpler times, MacOS was 4 gigs, and there was world peace. The real question is, did we actually grow or just make MacOS 16 gigs bigger? This is Jtech.
+    </description>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2025 12:00:00 -0500</lastBuildDate>
-
-    <item>
-      <title>New Project: Rocket App</title>
-      <link>https://example.com/rocket-app</link>
-      <description>I just launched my new app, Rocket! It replaces Launchpad.</description>
-      <pubDate>Sat, 20 Jul 2025 10:00:00 -0500</pubDate>
-      <guid>https://example.com/rocket-app</guid>
-    </item>
-
-    <item>
-      <title>Retro Tech is Back</title>
-      <link>https://example.com/retro-tech</link>
-      <description>I found a rare 2006 Intel MacBook Pro with one core!</description>
-      <pubDate>Fri, 19 Jul 2025 09:30:00 -0500</pubDate>
-      <guid>https://example.com/retro-tech</guid>
-    </item>
-
   </channel>
 </rss>
