@@ -10,5 +10,39 @@
     </description>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2025 12:00:00 -0500</lastBuildDate>
+
+    <item>
+  <title>The Power of Simple: Why macOS X Still Holds Up</title>
+  <link>https://jbluebird.github.io/posts/macosx-simplicity</link>
+  <description><![CDATA[
+    <p>Back in the early 2000s, installing Mac OS X felt like magic. The whole system fit on a single CD. You didn’t need a high-speed internet connection or 500 different permissions to launch an app. You just used your computer.</p>
+
+    <p>Today, macOS is a powerhouse. It’s secure, modern, feature-rich. But it's also grown — a lot. With background daemons, iCloud sync, app thinning, multiple volumes, and System Integrity Protection (SIP), it's powerful... but complex.</p>
+
+    <h3>So what made macOS X so special?</h3>
+
+    <p><strong>1. It Was Understandable</strong><br>
+    You could look in Activity Monitor and know what every process did. You didn’t need to Google things like <code>trustd</code>, <code>rapportd</code>, or <code>bird</code>. macOS X felt like a friendly machine, not a black box.</p>
+
+    <p><strong>2. One App, One Purpose</strong><br>
+    iTunes played music. Preview opened PDFs. Terminal ran commands. Today’s versions are powerful, but sometimes bloated.</p>
+
+    <p><strong>3. Speed and Stability</strong><br>
+    macOS X 10.4 or 10.6 on an old Intel Mac still feels <em>snappy</em>. There’s no lag in Finder, no endless beach balls when you click System Preferences. It just works.</p>
+
+    <p><strong>4. Design Consistency</strong><br>
+    Everything from the Aqua buttons to the brushed metal windows followed a design language. There were fewer frameworks, fewer menu bar apps, and fewer distractions.</p>
+
+    <h3>In the End…</h3>
+
+    <p>We're not saying macOS should go back to Tiger. But as we move forward, maybe Apple — and developers — should look back and ask:</p>
+
+    <blockquote><em>"Can we simplify just a little?"</em></blockquote>
+
+    <p>Because sometimes, simple really is better.</p>
+  ]]></description>
+  <pubDate>Sat, 20 Jul 2025 12:15:00 -0500</pubDate>
+  <guid>https://jbluebird.github.io/posts/macosx-simplicity</guid>
+</item>
   </channel>
 </rss>
